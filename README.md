@@ -37,9 +37,20 @@ Edit > Project Settings > Physics, then scrolling down until you see this chart.
 Finally, to make our Win and Lose screens, we added an empty object to hold the MinigameMode script
 that keeps track of the win conditions and lose conditions.
 
+![{4E547BA5-2255-4594-B18D-799BC2301290}](https://github.com/user-attachments/assets/96617f81-e909-40e1-84cd-ceeeb4806cc2)
+
+For making the win and lose screen, we imported AI-generated images into the assets and turned them into materials.
+Then we made two scenes called WinScreen and LoseScreens, and added a Cube on each. Finally, we dragged the materials
+into the cubes in the Win and Lose scene respectively.
+
+Win Screen:
+
+![image](https://github.com/user-attachments/assets/6f296f83-1975-4c95-b1f2-0337439313e2)
+![image](https://github.com/user-attachments/assets/753d81b5-a6e5-44c4-a1f8-02d274380126)
 
 
+Lose Screen:
 
-
-
+![image](https://github.com/user-attachments/assets/8ba79eae-0719-466d-8701-ab5aa479f8fe)
+![image](https://github.com/user-attachments/assets/0d27834a-b6ab-497a-b30b-8105a13e40e5)
 

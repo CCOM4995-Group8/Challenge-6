@@ -17,3 +17,17 @@ To create the raindrop, we added a sphere and changed the shape. Then we made a 
 
 ![image](https://github.com/user-attachments/assets/4570a70e-e94c-498b-9ef9-693eb1c1e82c)
 
+In order to make everything collide properly, we had to add layers for every component.
+Edit > Project Settings > Tags and Layers
+
+![image](https://github.com/user-attachments/assets/c3533574-c4f5-4fb3-ad91-fffd623294d8)
+
+After that, we had to manage the layers that can or cannot affect each other by going to
+Edit > Project Settings > Physics, then scrolling down until you see this chart.
+
+![image](https://github.com/user-attachments/assets/2701fb12-5e1d-4d47-ab84-849b5568557d)
+
+
+
+
+
